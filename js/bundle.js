@@ -1104,7 +1104,7 @@ var PreloaderScene = {
       ////////////////DESTRUIR CACHE/////////
 
       //MAPA
-      this.game.load.tilemap('mapaFinal', 'maps/Mapa2.json',null,Phaser.Tilemap.TILED_JSON);//Cargar el tilemap(hecho)
+      this.game.load.tilemap('mapaFinal', 'maps/mapa2.json',null,Phaser.Tilemap.TILED_JSON);//Cargar el tilemap(hecho)
       
       //TILES
       this.game.load.image('background', 'images/back.png');//cargar sprites del tilemap
