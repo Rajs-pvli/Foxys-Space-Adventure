@@ -1016,7 +1016,7 @@ var BootScene = {
     this.game.load.image('backPreloader_bar', 'images/fondoBarraCarga.png');//Barra de carga
     this.game.load.spritesheet('button', 'images/boton_azul.png', 190,46,3);//Imagen del botón
     this.game.load.spritesheet('buttonExit', 'images/boton_naranja.png', 190,45.5,3);//Imagen del botón
-    this.game.load.image('logo', 'images/PantallaMenu.png');//Imagen del logo
+    this.game.load.image('logo', 'images/pantallaMenu.png');//Imagen del logo
     this.game.load.audio('musicaMenu','sound/musicaMenu.wav');
     this.game.load.audio('buttonSound','sound/buttonSound.wav');
 
