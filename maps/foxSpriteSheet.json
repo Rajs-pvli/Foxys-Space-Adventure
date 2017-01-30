@@ -1,0 +1,43 @@
+{ "height":1,
+ "layers":[
+        {
+         "data":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+         "height":1,
+         "name":"Capa de Patrones 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":27,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":80,
+ "tilesets":[
+        {
+         "columns":3,
+         "firstgid":1,
+         "image":"..\/images\/kit_from_firefox.png",
+         "imageheight":720,
+         "imagewidth":168,
+         "margin":0,
+         "name":"kit_from_firefox",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":27,
+         "tileheight":80,
+         "tilewidth":56
+        }],
+ "tilewidth":56,
+ "version":1,
+ "width":27
+}
