@@ -26,6 +26,6 @@ En el nivel 2 hay zonas en las que al entrar en contacto con ellas, la gravedad 
 
 A pesar de ser un juego de plataformas en 2D como tantos otros, en este se incluyen mecánicas que hacen el juego más entretenido que simplemente ir saltando plataformas. Aquí además de estar pendiente de que no te maten los enemigos, tienes que tener habilidad para ir escalando las paredes además de tener en cuenta los cambios de gravedad, que en algunos casos más que ayudar, perjudican. Es un juego que a pesar de tener controles sencillos hay que tener habilidad para poder terminar el nivel. Si te gustan los retos, este es tu juego. 
 
-6. Referencias utilizadas 
+6. Referencias utilizadas
 
 En cuanto a los recursos utilizados, hemos sacado los sprites de OpenGameArt, pertenecientes al autor Kenney. Todas las licencias que hemos utilizado son de dominio público. Para hacer el juego nos hemos basado en las mecánicas Super Mario.
