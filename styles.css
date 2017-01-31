@@ -7,13 +7,15 @@ body {
   padding: 0;
   margin: 0;
   font-family: Courier, 'Courier New', monospace;
-  font-size: 1.6rem;
-  background: #fff;
+  font-size: 3rem;
+  background-image: url("images/patron.jpg");
+  background-repeat: repeat;
+  background-position: center;
   color: #000;
 }
 
 a {
-  color: #c39;
+  color: #A42;
 }
 
 main {
@@ -22,9 +24,87 @@ main {
 }
 
 #game {
-  border: 1px solid #333;
+  border: 5px solid #63A;
 }
 
 footer {
   text-align: center;
+}
+
+.cajaInfo {
+
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+
+color: #ffffff;
+
+font-size: 18px;
+
+font-weight: 400;
+
+text-align: center;
+
+background: #889ccf;
+
+margin: 0 0 25px;
+
+overflow: hidden;
+
+padding: 20px;
+
+border-radius: 35px 0px 35px 0px;
+
+-moz-border-radius: 35px 0px 35px 0px;
+
+-webkit-border-radius: 35px 0px 35px 0px;
+
+border: 2px solid #5878ca;
+
+width: 45%;
+
+left: 20px;
+
+position: relative;
+
+float: left;
+
+
+}
+
+.cajaHisto {
+
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+
+color: #ffffff;
+
+font-size: 18px;
+
+font-weight: 400;
+
+text-align: center;
+
+background: #888888;
+
+margin: 0 0 25px;
+
+overflow: hidden;
+
+padding: 20px;
+
+border-radius: 35px 0px 35px 0px;
+
+-moz-border-radius: 35px 0px 35px 0px;
+
+-webkit-border-radius: 35px 0px 35px 0px;
+
+border: 3px solid #9768ca;
+
+width: 45%;
+
+position: relative;
+
+right: 20px;
+
+float: right;
+
+
 }
