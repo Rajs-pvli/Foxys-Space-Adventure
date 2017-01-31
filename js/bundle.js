@@ -321,7 +321,7 @@ Player.prototype.update_ = function()
                     this.body.velocity.y = 800;
                 
 
-                else if(this.body.velocity.y < 800 && this.gravityFall)
+                else if(this.body.velocity.y < -800 && this.gravityFall)
                     this.body.velocity.y = -800;
             }
             break;    
