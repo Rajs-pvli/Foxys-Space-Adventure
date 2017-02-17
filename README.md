@@ -1,5 +1,5 @@
 
-FOXY’S SPACIAL ADVENTURE 
+#FOXY’S SPACIAL ADVENTURE 
 
 Desarrolladores: Raúl Gómez Serrano y Adriana del Castillo Espejo-Saavedra 
 
